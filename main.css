@@ -1,0 +1,58 @@
+
+
+.container .row .one h5{
+
+
+	padding-top: 103px;
+	    font-size: 40px;
+	   
+	    font-family: 'Noto Serif TC', serif;
+}
+.container .row .two h5{
+
+	padding-top: 49px;
+	    font-size: 29px;
+	    font-family: 'Roboto', sans-serif;
+}
+.container .row .col-5 .tab-content .q,
+.container .row .col-5 .tab-content .t
+{
+padding-top: 56px;
+
+}
+
+.container .row .col-5 .tab-content .w{
+	padding-top: 102px;
+}
+.container .row .col-5 .tab-content .e{
+	padding-top: 153px;
+}
+/*.container .row .col-5{
+	background-color: lightsteelblue;
+}*/
+.container .row .col-5 .tab-content .q .custom-control label,
+.container .row .col-5 .tab-content .o .custom-control label,
+.container .row .col-5 .tab-content .e .custom-control label,
+.container .row .col-5 .tab-content .w .custom-control label,
+.container .row .col-5 .tab-content .t .custom-control label{
+padding-left: 15px;
+color: black;
+font-family: 'Roboto', sans-serif;
+
+}
+.container .row .col-5 .tab-content .q .custom-control,
+.container .row .col-5 .tab-content .w .custom-control,
+.container .row .col-5 .tab-content .e .custom-control,
+.container .row .col-5 .tab-content .o .custom-control,
+.container .row .col-5 .tab-content .t .custom-control
+{
+	font-size: x-large;
+	padding-left: 23px;
+}
+.container .row .b{
+	padding-top: 80px;
+}
+.container .row .col-md-6 button:hover{
+
+	box-shadow: 3px 2px 12px 1px blue;
+}
